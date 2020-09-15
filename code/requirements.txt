@@ -1,4 +1,4 @@
-PyYAML==3.10
+PyYAML==5.1
 dumbo==0.21.36
 nltk==2.0.4
 numpy==1.7.1
